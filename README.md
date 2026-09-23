@@ -1,2 +1,2 @@
-# Programa-o-de-Computadores
+# Programacão-de-Computadores
 Repositório da disciplina de programação de computadores
